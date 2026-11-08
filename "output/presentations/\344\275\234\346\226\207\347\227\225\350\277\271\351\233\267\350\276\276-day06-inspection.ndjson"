@@ -1,0 +1,156 @@
+{"kind":"slide","id":"sl/fviecq","slide":1,"title":"封面","textShapes":7}
+{"kind":"textbox","id":"sh/kv69kbq1","slide":1,"text":"封面","textPreview":"封面","textChars":2,"textLines":1,"bbox":[50,46,260,40]}
+{"kind":"textbox","id":"sh/jaxsr69g","slide":1,"text":"作文痕迹雷达帮学生把作文改得更真实","textPreview":"作文痕迹雷达帮学生把作文改得更真实","textChars":17,"textLines":1,"bbox":[50,150,650,210]}
+{"kind":"shape","id":"sh/i9ori18v","slide":1,"bbox":[54,418,7,7]}
+{"kind":"textbox","id":"sh/x8fapgra","slide":1,"text":"项目名称：作文痕迹雷达","textPreview":"项目名称：作文痕迹雷达","textChars":11,"textLines":1,"bbox":[76,405,598,52]}
+{"kind":"shape","id":"sh/w7m9gbqp","slide":1,"bbox":[54,478,7,7]}
+{"kind":"textbox","id":"sh/v6dsn69k","slide":1,"text":"团队：Tony-Codex","textPreview":"团队：Tony-Codex","textChars":13,"textLines":1,"bbox":[76,465,598,52]}
+{"kind":"shape","id":"sh/a54re18z","slide":1,"bbox":[54,538,7,7]}
+{"kind":"textbox","id":"sh/14za107u","slide":1,"text":"一句话价值：快速检测 AI 文本风险，并给出安全改写建议","textPreview":"一句话价值：快速检测 AI 文本风险，并给出安全改写建议","textChars":28,"textLines":1,"bbox":[76,525,598,52]}
+{"kind":"shape","id":"sh/g3qtsvq9","slide":1,"bbox":[780,120,420,430]}
+{"kind":"textbox","id":"sh/u9k725s3","slide":1,"text":"【放产品首页或检测页面截图】","textPreview":"【放产品首页或检测页面截图】","textChars":14,"textLines":1,"bbox":[808,301,364,70]}
+{"kind":"textbox","id":"sh/vatovato","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1168,648,52,26]}
+{"kind":"notes","id":"nt/fviecq","slide":1,"text":"大家好，我们的项目叫作文痕迹雷达。它不是为了让学生逃避写作，而是帮助学生看见作文里太工整、太模板、太像 AI 的地方，并学会把表达改得更真实。\n\n[Sources]\n计划书来源：D:\\tony\\“你像AI吗”文本检测反测站\\docs\\青少年商业计划书模板-day06 副本.docx"}
+{"kind":"slide","id":"sl/ro93zo","slide":2,"title":"项目概览","textShapes":7}
+{"kind":"textbox","id":"sh/u50vqpc3","slide":2,"text":"项目概览","textPreview":"项目概览","textChars":4,"textLines":1,"bbox":[50,38,240,34]}
+{"kind":"textbox","id":"sh/h8rul4be","slide":2,"text":"我们已经有一个能运行的学生作文检测服务","textPreview":"我们已经有一个能运行的学生作文检测服务","textChars":19,"textLines":1,"bbox":[50,86,790,112]}
+{"kind":"shape","id":"sh/g7idszut","slide":2,"bbox":[62,253,7,7]}
+{"kind":"textbox","id":"sh/3a9cnutk","slide":2,"text":"服务对象：需要证明内容原创性的学生","textPreview":"服务对象：需要证明内容原创性的学生","textChars":17,"textLines":1,"bbox":[84,240,568,52]}
+{"kind":"shape","id":"sh/i90vu9cz","slide":2,"bbox":[62,313,7,7]}
+{"kind":"textbox","id":"sh/pwbup4bq","slide":2,"text":"核心能力：AI 风险检测、原因解释、改写建议","textPreview":"核心能力：AI 风险检测、原因解释、改写建议","textChars":22,"textLines":1,"bbox":[84,300,568,52]}
+{"kind":"shape","id":"sh/4vidwza5","slide":2,"bbox":[62,373,7,7]}
+{"kind":"textbox","id":"sh/jepcbatg","slide":2,"text":"当前阶段：已有能运行的作品或服务","textPreview":"当前阶段：已有能运行的作品或服务","textChars":16,"textLines":1,"bbox":[84,360,568,52]}
+{"kind":"shape","id":"sh/ydgbi5cv","slide":2,"bbox":[720,216,458,310]}
+{"kind":"textbox","id":"sh/sva9w3ml","slide":2,"text":"【放网站运行界面或功能总览截图】","textPreview":"【放网站运行界面或功能总览截图】","textChars":16,"textLines":1,"bbox":[748,337,402,70]}
+{"kind":"textbox","id":"sh/twjap8n6","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1168,648,52,26]}
+{"kind":"notes","id":"nt/ro93zo","slide":2,"text":"这个项目已经不是停留在想法阶段。计划书里写到，项目已有能运行的作品或服务，核心是把作文的 AI 风险、原因和修改方向一起展示出来。\n\n[Sources]\n计划书来源：D:\\tony\\“你像AI吗”文本检测反测站\\docs\\青少年商业计划书模板-day06 副本.docx"}
+{"kind":"slide","id":"sl/akr5pm","slide":3,"title":"用户与问题","textShapes":7}
+{"kind":"textbox","id":"sh/orydsvq5","slide":3,"text":"用户与问题","textPreview":"用户与问题","textChars":5,"textLines":1,"bbox":[50,38,240,34]}
+{"kind":"textbox","id":"sh/nqpcjq9k","slide":3,"text":"学生和老师都缺少可解释的 AI 作文判断依据","textPreview":"学生和老师都缺少可解释的 AI 作文判断依据","textChars":22,"textLines":1,"bbox":[50,86,790,112]}
+{"kind":"shape","id":"sh/2pgvql8z","slide":3,"bbox":[62,253,7,7]}
+{"kind":"textbox","id":"sh/1onux0re","slide":3,"text":"主要用户：12-18 岁初高中学生","textPreview":"主要用户：12-18 岁初高中学生","textChars":17,"textLines":1,"bbox":[84,240,568,52]}
+{"kind":"shape","id":"sh/0netovqt","slide":3,"bbox":[62,313,7,7]}
+{"kind":"textbox","id":"sh/fm5cvq98","slide":3,"text":"次要用户：语文老师、班主任、写作社团指导老师","textPreview":"次要用户：语文老师、班主任、写作社团指导老师","textChars":22,"textLines":1,"bbox":[84,300,568,52]}
+{"kind":"shape","id":"sh/elwbml83","slide":3,"bbox":[62,373,7,7]}
+{"kind":"textbox","id":"sh/lkrutkri","slide":3,"text":"真实场景：交作文前担心被认为 AI 痕迹过重","textPreview":"真实场景：交作文前担心被认为 AI 痕迹过重","textChars":22,"textLines":1,"bbox":[84,360,568,52]}
+{"kind":"shape","id":"sh/kjid0fqd","slide":3,"bbox":[720,216,458,310]}
+{"kind":"textbox","id":"sh/mxkrmtcv","slide":3,"text":"【放学生提交作文或老师批改作文的场景图】","textPreview":"【放学生提交作文或老师批改作文的场景图】","textChars":20,"textLines":1,"bbox":[748,337,402,70]}
+{"kind":"textbox","id":"sh/nytsvydg","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1168,648,52,26]}
+{"kind":"notes","id":"nt/akr5pm","slide":3,"text":"学生的问题不是只想知道一个分数，而是不知道到底哪几句话出了问题。老师的问题是批改量大，而且只说“像 AI”很难让学生信服。\n\n[Sources]\n计划书来源：D:\\tony\\“你像AI吗”文本检测反测站\\docs\\青少年商业计划书模板-day06 副本.docx"}
+{"kind":"slide","id":"sl/ufps0q","slide":4,"title":"解决方案","textShapes":7}
+{"kind":"textbox","id":"sh/1svixc7y","slide":4,"text":"解决方案","textPreview":"解决方案","textChars":4,"textLines":1,"bbox":[50,38,240,34]}
+{"kind":"textbox","id":"sh/ep4zmx8n","slide":4,"text":"产品用检测、解释和受控改写完成一次闭环","textPreview":"产品用检测、解释和受控改写完成一次闭环","textChars":19,"textLines":1,"bbox":[50,86,790,112]}
+{"kind":"shape","id":"sh/fqd0v2p8","slide":4,"bbox":[720,216,458,310]}
+{"kind":"textbox","id":"sh/snmhk7qh","slide":4,"text":"【放三步流程图：输入作文 -> 检测报告 -> 改写版本】","textPreview":"【放三步流程图：输入作文 -> 检测报告 -> 改写版本】","textChars":29,"textLines":1,"bbox":[748,337,402,70]}
+{"kind":"shape","id":"sh/dovytc72","slide":4,"bbox":[62,253,7,7]}
+{"kind":"textbox","id":"sh/qlkzix8b","slide":4,"text":"用户粘贴作文，并填写写作背景与作者样本","textPreview":"用户粘贴作文，并填写写作背景与作者样本","textChars":19,"textLines":1,"bbox":[84,240,568,52]}
+{"kind":"shape","id":"sh/rmtgr2pw","slide":4,"bbox":[62,313,7,7]}
+{"kind":"textbox","id":"sh/4z2hgnql","slide":4,"text":"系统检测风险比例、风险等级和命中原因","textPreview":"系统检测风险比例、风险等级和命中原因","textChars":18,"textLines":1,"bbox":[84,300,568,52]}
+{"kind":"shape","id":"sh/5kbyps7q","slide":4,"bbox":[62,373,7,7]}
+{"kind":"textbox","id":"sh/10nqdgre","slide":4,"text":"需要改写时，按编辑计划和事实边界生成版本","textPreview":"需要改写时，按编辑计划和事实边界生成版本","textChars":20,"textLines":1,"bbox":[84,360,568,52]}
+{"kind":"textbox","id":"sh/0zepkbqt","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1168,648,52,26]}
+{"kind":"notes","id":"nt/ufps0q","slide":4,"text":"我们的流程很简单：先输入作文，再看检测报告，最后在事实边界内改写。重点是受控改写，不为了降低 AI 率随便添加没有来源的生活细节。\n\n[Sources]\n计划书来源：D:\\tony\\“你像AI吗”文本检测反测站\\docs\\青少年商业计划书模板-day06 副本.docx"}
+{"kind":"slide","id":"sl/2ha562","slide":5,"title":"产品展示","textShapes":7}
+{"kind":"textbox","id":"sh/2lgza10j","slide":5,"text":"产品展示","textPreview":"产品展示","textChars":4,"textLines":1,"bbox":[50,38,240,34]}
+{"kind":"textbox","id":"sh/pori5gja","slide":5,"text":"演示只聚焦一件事：输入作文并得到分析与改写","textPreview":"演示只聚焦一件事：输入作文并得到分析与改写","textChars":21,"textLines":1,"bbox":[50,86,790,112]}
+{"kind":"shape","id":"sh/onyhcbip","slide":5,"bbox":[62,253,7,7]}
+{"kind":"textbox","id":"sh/fip0z618","slide":5,"text":"展示 AI 风险比例和风险等级","textPreview":"展示 AI 风险比例和风险等级","textChars":15,"textLines":1,"bbox":[84,240,568,52]}
+{"kind":"shape","id":"sh/ehgz610n","slide":5,"bbox":[62,313,7,7]}
+{"kind":"textbox","id":"sh/1k7i1wjy","slide":5,"text":"展示问题清单、信息密度、节奏和修改前后对照","textPreview":"展示问题清单、信息密度、节奏和修改前后对照","textChars":21,"textLines":1,"bbox":[84,300,568,52]}
+{"kind":"shape","id":"sh/gjyh8rid","slide":5,"bbox":[62,373,7,7]}
+{"kind":"textbox","id":"sh/ze90bq1c","slide":5,"text":"展示经过事实审计的改写建议","textPreview":"展示经过事实审计的改写建议","textChars":13,"textLines":1,"bbox":[84,360,568,52]}
+{"kind":"shape","id":"sh/yd0jil0r","slide":5,"bbox":[720,216,458,310]}
+{"kind":"textbox","id":"sh/4nahcnel","slide":5,"text":"【放检测报告截图】【放修改前后对照截图】","textPreview":"【放检测报告截图】【放修改前后对照截图】","textChars":20,"textLines":1,"bbox":[748,337,402,70]}
+{"kind":"textbox","id":"sh/5oji5sf6","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1168,648,52,26]}
+{"kind":"notes","id":"nt/2ha562","slide":5,"text":"路演时不需要展示很多功能。我们只演示一个核心任务：输入一段作文，得到详细分析和改写结果。这样评委能最快看懂产品价值。\n\n[Sources]\n计划书来源：D:\\tony\\“你像AI吗”文本检测反测站\\docs\\青少年商业计划书模板-day06 副本.docx"}
+{"kind":"slide","id":"sl/z16mfm","slide":6,"title":"竞争差异","textShapes":7}
+{"kind":"textbox","id":"sh/psva9kn2","slide":6,"text":"竞争差异","textPreview":"竞争差异","textChars":4,"textLines":1,"bbox":[50,38,240,34]}
+{"kind":"textbox","id":"sh/2pkre5or","slide":6,"text":"我们不是只给分数，而是告诉用户为什么像 AI","textPreview":"我们不是只给分数，而是告诉用户为什么像 AI","textChars":22,"textLines":1,"bbox":[50,86,790,112]}
+{"kind":"shape","id":"sh/nqts7a5c","slide":6,"bbox":[720,216,458,310]}
+{"kind":"textbox","id":"sh/0n29cf6l","slide":6,"text":"【放“现在办法 vs 我们的办法”的对比图】","textPreview":"【放“现在办法 vs 我们的办法”的对比图】","textChars":22,"textLines":1,"bbox":[748,337,402,70]}
+{"kind":"shape","id":"sh/1oba5kn6","slide":6,"bbox":[62,253,7,7]}
+{"kind":"textbox","id":"sh/elkra5of","slide":6,"text":"普通办法：自己反复读、让 AI 再改、人工写作辅导","textPreview":"普通办法：自己反复读、让 AI 再改、人工写作辅导","textChars":25,"textLines":1,"bbox":[84,240,568,52]}
+{"kind":"shape","id":"sh/fmt83a50","slide":6,"bbox":[62,313,7,7]}
+{"kind":"textbox","id":"sh/kj69ozmp","slide":6,"text":"我们的差异：解释原因、列问题清单、展示修改对照","textPreview":"我们的差异：解释原因、列问题清单、展示修改对照","textChars":23,"textLines":1,"bbox":[84,300,568,52]}
+{"kind":"shape","id":"sh/lkfah4na","slide":6,"bbox":[62,373,7,7]}
+{"kind":"textbox","id":"sh/dgvihcjy","slide":6,"text":"专注学生作文，并强调不新增无来源事实","textPreview":"专注学生作文，并强调不新增无来源事实","textChars":18,"textLines":1,"bbox":[84,360,568,52]}
+{"kind":"textbox","id":"sh/cfm187id","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1168,648,52,26]}
+{"kind":"notes","id":"nt/z16mfm","slide":6,"text":"普通 AI 检测工具往往只给一个结果。我们的差异是面向学生作文，把判断拆成能理解、能修改、能和老师沟通的反馈。\n\n[Sources]\n计划书来源：D:\\tony\\“你像AI吗”文本检测反测站\\docs\\青少年商业计划书模板-day06 副本.docx"}
+{"kind":"slide","id":"sl/irgr4k","slide":7,"title":"验证结果","textShapes":7}
+{"kind":"textbox","id":"sh/7id43m9s","slide":7,"text":"验证结果","textPreview":"验证结果","textChars":4,"textLines":1,"bbox":[50,38,240,34]}
+{"kind":"textbox","id":"sh/sjm5wrqd","slide":7,"text":"目前有观察证据，但正式试用数据还没有完成","textPreview":"目前有观察证据，但正式试用数据还没有完成","textChars":20,"textLines":1,"bbox":[50,86,790,112]}
+{"kind":"shape","id":"sh/tkvm5wry","slide":7,"bbox":[76,241,7,7]}
+{"kind":"textbox","id":"sh/idk3qhsv","slide":7,"text":"已观察对象：校内同班同学","textPreview":"已观察对象：校内同班同学","textChars":12,"textLines":1,"bbox":[98,228,998,52]}
+{"kind":"shape","id":"sh/jed4zm9g","slide":7,"bbox":[76,301,7,7]}
+{"kind":"textbox","id":"sh/kfmlsrq1","slide":7,"text":"真实原话：“用AI作文上场被当场识破尬死我了。”","textPreview":"真实原话：“用AI作文上场被当场识破尬死我了。”","textChars":24,"textLines":1,"bbox":[98,288,998,52]}
+{"kind":"shape","id":"sh/5gvm1wrm","slide":7,"bbox":[76,361,7,7]}
+{"kind":"textbox","id":"sh/29on2l8f","slide":7,"text":"测试人数、结果和意外发现：计划书未提供","textPreview":"测试人数、结果和意外发现：计划书未提供","textChars":19,"textLines":1,"bbox":[98,348,998,52]}
+{"kind":"shape","id":"sh/3ax4b690","slide":7,"bbox":[210,470,860,118]}
+{"kind":"textbox","id":"sh/7apgbql8","slide":7,"text":"【放用户原话记录或后续访谈表占位】","textPreview":"【放用户原话记录或后续访谈表占位】","textChars":17,"textLines":1,"bbox":[238,495,804,70]}
+{"kind":"textbox","id":"sh/69gf2l43","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1168,648,52,26]}
+{"kind":"notes","id":"nt/irgr4k","slide":7,"text":"这一页要诚实。计划书里有同班同学的观察和一句真实原话，但正式访谈、试用人数、结果数据还没有填写，所以这里不能编数字。\n\n[Sources]\n计划书来源：D:\\tony\\“你像AI吗”文本检测反测站\\docs\\青少年商业计划书模板-day06 副本.docx"}
+{"kind":"slide","id":"sl/jdqk95","slide":8,"title":"商业模式","textShapes":7}
+{"kind":"textbox","id":"sh/m1cve58z","slide":8,"text":"商业模式","textPreview":"商业模式","textChars":4,"textLines":1,"bbox":[50,38,240,34]}
+{"kind":"textbox","id":"sh/9o3e9krq","slide":8,"text":"早期更适合从个人按次和小范围社团试用开始","textPreview":"早期更适合从个人按次和小范围社团试用开始","textChars":20,"textLines":1,"bbox":[50,86,790,112]}
+{"kind":"shape","id":"sh/o3udgfq5","slide":8,"bbox":[720,216,458,310]}
+{"kind":"textbox","id":"sh/zy1w3q98","slide":8,"text":"【放商业模式示意图：学生/老师/家长/社团】","textPreview":"【放商业模式示意图：学生/老师/家长/社团】","textChars":22,"textLines":1,"bbox":[748,337,402,70]}
+{"kind":"shape","id":"sh/exsval8n","slide":8,"bbox":[62,253,7,7]}
+{"kind":"textbox","id":"sh/103e50re","slide":8,"text":"使用者：学生；老师也是重要使用者","textPreview":"使用者：学生；老师也是重要使用者","textChars":16,"textLines":1,"bbox":[84,240,568,52]}
+{"kind":"shape","id":"sh/0zadcvqt","slide":8,"bbox":[62,313,7,7]}
+{"kind":"textbox","id":"sh/ru1czq9c","slide":8,"text":"可能付费方：学生、家长、写作社团、培训机构、学校语文备课组","textPreview":"可能付费方：学生、家长、写作社团、培训机构、学校语文备课组","textChars":29,"textLines":1,"bbox":[84,300,568,52]}
+{"kind":"shape","id":"sh/qtsv6lsr","slide":8,"bbox":[62,373,7,7]}
+{"kind":"textbox","id":"sh/s325sfa5","slide":8,"text":"方式假设：少量免费体验，之后购买算力包或包月","textPreview":"方式假设：少量免费体验，之后购买算力包或包月","textChars":22,"textLines":1,"bbox":[84,360,568,52]}
+{"kind":"textbox","id":"sh/t4b6lkba","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1168,648,52,26]}
+{"kind":"notes","id":"nt/jdqk95","slide":8,"text":"计划书没有给确定价格，所以我们只讲假设。早期更适合用少量免费体验降低门槛，再测试算力包或包月是否有人愿意付费。\n\n[Sources]\n计划书来源：D:\\tony\\“你像AI吗”文本检测反测站\\docs\\青少年商业计划书模板-day06 副本.docx"}
+{"kind":"slide","id":"sl/d7o9i9","slide":9,"title":"技术与安全","textShapes":7}
+{"kind":"textbox","id":"sh/jyxkzelg","slide":9,"text":"技术与安全","textPreview":"技术与安全","textChars":5,"textLines":1,"bbox":[50,38,240,34]}
+{"kind":"textbox","id":"sh/4z6l8j21","slide":9,"text":"事实审计让改写不会为了降分而乱编细节","textPreview":"事实审计让改写不会为了降分而乱编细节","textChars":18,"textLines":1,"bbox":[50,86,790,112]}
+{"kind":"shape","id":"sh/50f21o3m","slide":9,"bbox":[76,241,7,7]}
+{"kind":"textbox","id":"sh/ut4j29kz","slide":9,"text":"检测：本地规则、文本节奏、信息密度、格式痕迹和模型判断","textPreview":"检测：本地规则、文本节奏、信息密度、格式痕迹和模型判断","textChars":27,"textLines":1,"bbox":[98,228,998,52]}
+{"kind":"shape","id":"sh/vudkvelk","slide":9,"bbox":[76,301,7,7]}
+{"kind":"textbox","id":"sh/wvm14j25","slide":9,"text":"改写：编辑计划、事实库存、作者样本和样本事实黑名单","textPreview":"改写：编辑计划、事实库存、作者样本和样本事实黑名单","textChars":25,"textLines":1,"bbox":[98,288,998,52]}
+{"kind":"shape","id":"sh/hwv2xo3a","slide":9,"bbox":[76,361,7,7]}
+{"kind":"textbox","id":"sh/mpkjypkn","slide":9,"text":"安全：事实审计、样本泄漏审计、AI 率复检排序","textPreview":"安全：事实审计、样本泄漏审计、AI 率复检排序","textChars":23,"textLines":1,"bbox":[98,348,998,52]}
+{"kind":"shape","id":"sh/7qtkrul8","slide":9,"bbox":[210,470,860,118]}
+{"kind":"textbox","id":"sh/bmtobi9g","slide":9,"text":"【放技术流程图或事实审计界面截图】","textPreview":"【放技术流程图或事实审计界面截图】","textChars":17,"textLines":1,"bbox":[238,495,804,70]}
+{"kind":"textbox","id":"sh/alknid8v","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1168,648,52,26]}
+{"kind":"notes","id":"nt/d7o9i9","slide":9,"text":"技术页不用讲复杂名词，讲它做了什么。我们的重点是把检测和改写分开，并用事实库存和审计机制防止改写时新增虚假内容。\n\n[Sources]\n计划书来源：D:\\tony\\“你像AI吗”文本检测反测站\\docs\\青少年商业计划书模板-day06 副本.docx"}
+{"kind":"slide","id":"sl/u24yxd","slide":10,"title":"90天计划","textShapes":7}
+{"kind":"textbox","id":"sh/6tonqtov","slide":10,"text":"90天计划","textPreview":"90天计划","textChars":5,"textLines":1,"bbox":[50,38,240,34]}
+{"kind":"textbox","id":"sh/twf618nm","slide":10,"text":"接下来 90 天要用真实试用检验产品价值","textPreview":"接下来 90 天要用真实试用检验产品价值","textChars":20,"textLines":1,"bbox":[50,86,790,112]}
+{"kind":"shape","id":"sh/8v65s361","slide":10,"bbox":[720,216,458,310]}
+{"kind":"textbox","id":"sh/jqx4vy5k","slide":10,"text":"【放 90 天时间轴】","textPreview":"【放 90 天时间轴】","textChars":11,"textLines":1,"bbox":[748,337,402,70]}
+{"kind":"shape","id":"sh/yponmtoz","slide":10,"bbox":[62,253,7,7]}
+{"kind":"textbox","id":"sh/lsfmxona","slide":10,"text":"1-30 天：完成 5-10 名学生试用访谈","textPreview":"1-30 天：完成 5-10 名学生试用访谈","textChars":22,"textLines":1,"bbox":[84,240,568,52]}
+{"kind":"shape","id":"sh/kr65o365","slide":10,"bbox":[62,313,7,7]}
+{"kind":"textbox","id":"sh/b2d4rep8","slide":10,"text":"31-60 天：优化作者样本风格校准、改写降分和事实审计","textPreview":"31-60 天：优化作者样本风格校准、改写降分和事实审计","textChars":28,"textLines":1,"bbox":[84,300,568,52]}
+{"kind":"shape","id":"sh/a14ni9on","slide":10,"bbox":[62,373,7,7]}
+{"kind":"textbox","id":"sh/k7ut0zip","slide":10,"text":"61-90 天：组织约 30 名学生完成检测、修改、复检闭环","textPreview":"61-90 天：组织约 30 名学生完成检测、修改、复检闭环","textChars":30,"textLines":1,"bbox":[84,360,568,52]}
+{"kind":"textbox","id":"sh/583a94ju","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1168,648,52,26]}
+{"kind":"notes","id":"nt/u24yxd","slide":10,"text":"下一步不是空喊推广，而是把真实用户试用做出来。计划书里最明确的目标，是记录学生是否看得懂、愿不愿改、改后 AI 风险是否下降。\n\n[Sources]\n计划书来源：D:\\tony\\“你像AI吗”文本检测反测站\\docs\\青少年商业计划书模板-day06 副本.docx"}
+{"kind":"slide","id":"sl/yh5hhx","slide":11,"title":"团队与请求","textShapes":7}
+{"kind":"textbox","id":"sh/qlkfixsr","slide":11,"text":"团队与请求","textPreview":"团队与请求","textChars":5,"textLines":1,"bbox":[50,38,240,34]}
+{"kind":"textbox","id":"sh/dobytcb2","slide":11,"text":"我们需要真实试用者和作文教学场景反馈","textPreview":"我们需要真实试用者和作文教学场景反馈","textChars":18,"textLines":1,"bbox":[50,86,790,112]}
+{"kind":"shape","id":"sh/cn2xk7ax","slide":11,"bbox":[62,248,7,7]}
+{"kind":"textbox","id":"sh/3i9wn2t0","slide":11,"text":"Tony：项目负责人，负责决策、设计、审核、部署和路演资料","textPreview":"Tony：项目负责人，负责决策、设计、审核、部署和路演资料","textChars":29,"textLines":1,"bbox":[84,235,698,52]}
+{"kind":"shape","id":"sh/2h0fexsf","slide":11,"bbox":[62,308,7,7]}
+{"kind":"textbox","id":"sh/pkbepsb6","slide":11,"text":"Codex：AI 助手，负责程序、方案、调试、修 Bug、图标和部署协助","textPreview":"Codex：AI 助手，负责程序、方案、调试、修 Bug、图标和部署协助","textChars":36,"textLines":1,"bbox":[84,295,698,52]}
+{"kind":"shape","id":"sh/oj2xg7al","slide":11,"bbox":[62,368,7,7]}
+{"kind":"textbox","id":"sh/fu9wjit4","slide":11,"text":"请求：请老师或评委介绍真实试用者，并反馈检测解释是否适合作文教学","textPreview":"请求：请老师或评委介绍真实试用者，并反馈检测解释是否适合作文教学","textChars":32,"textLines":1,"bbox":[84,355,698,52]}
+{"kind":"shape","id":"sh/et0fadcj","slide":11,"bbox":[835,230,330,240]}
+{"kind":"textbox","id":"sh/8reh0vm1","slide":11,"text":"【放团队分工图或团队照片占位】","textPreview":"【放团队分工图或团队照片占位】","textChars":15,"textLines":1,"bbox":[863,316,274,70]}
+{"kind":"textbox","id":"sh/9s7yt03m","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1168,648,52,26]}
+{"kind":"notes","id":"nt/yh5hhx","slide":11,"text":"这一页要把请求说具体。我们现在最需要的不是泛泛的支持，而是真实学生试用者，以及老师对检测解释是否适合作文教学的反馈。\n\n[Sources]\n计划书来源：D:\\tony\\“你像AI吗”文本检测反测站\\docs\\青少年商业计划书模板-day06 副本.docx"}
+{"kind":"slide","id":"sl/87bkgv","slide":12,"title":"收尾","textShapes":7}
+{"kind":"textbox","id":"sh/36hwbal0","slide":12,"text":"收尾","textPreview":"收尾","textChars":2,"textLines":1,"bbox":[50,46,260,40]}
+{"kind":"textbox","id":"sh/47qxkf2l","slide":12,"text":"我们想把“这篇像 AI”变成能修改的写作反馈","textPreview":"我们想把“这篇像 AI”变成能修改的写作反馈","textChars":22,"textLines":1,"bbox":[50,150,900,170]}
+{"kind":"shape","id":"sh/58zedk36","slide":12,"bbox":[60,378,7,7]}
+{"kind":"textbox","id":"sh/uhove5kj","slide":12,"text":"学生知道问题在哪里，而不是只看到一个分数","textPreview":"学生知道问题在哪里，而不是只看到一个分数","textChars":20,"textLines":1,"bbox":[82,365,698,52]}
+{"kind":"shape","id":"sh/vixw7alo","slide":12,"bbox":[60,438,7,7]}
+{"kind":"textbox","id":"sh/g3qdgf29","slide":12,"text":"老师能把判断变成更清楚的沟通依据","textPreview":"老师能把判断变成更清楚的沟通依据","textChars":16,"textLines":1,"bbox":[82,425,698,52]}
+{"kind":"shape","id":"sh/h4ze9k3u","slide":12,"bbox":[60,498,7,7]}
+{"kind":"textbox","id":"sh/6doval47","slide":12,"text":"下一步：真实试用、记录结果、优化改写","textPreview":"下一步：真实试用、记录结果、优化改写","textChars":18,"textLines":1,"bbox":[82,485,698,52]}
+{"kind":"shape","id":"sh/7exw3qls","slide":12,"bbox":[835,350,330,150]}
+{"kind":"textbox","id":"sh/7mlgb2ps","slide":12,"text":"【放项目二维码或演示链接】","textPreview":"【放项目二维码或演示链接】","textChars":13,"textLines":1,"bbox":[863,391,274,70]}
+{"kind":"textbox","id":"sh/mlczixo7","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1168,648,52,26]}
+{"kind":"notes","id":"nt/87bkgv","slide":12,"text":"最后回到项目价值：我们希望把一句模糊的“这篇像 AI”，变成学生真的看得懂、改得动、也能提升写作能力的反馈。\n\n[Sources]\n计划书来源：D:\\tony\\“你像AI吗”文本检测反测站\\docs\\青少年商业计划书模板-day06 副本.docx"}

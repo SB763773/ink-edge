@@ -1,0 +1,69 @@
+{
+  "snapshotDate": "2026-07-28",
+  "downloadMethod": "GitHub Codeload ZIP at the recorded commit",
+  "tools": [
+    {
+      "id": "humanizer-zh",
+      "repository": "https://github.com/op7418/humanizer-zh",
+      "commit": "91f3d394db8419c20d67ebe22a96cf8fee0a404b",
+      "archiveSha256": "62c1c28f45341e7be9772d49ad3d3e8588112c62612411c8ed5ced1b38d58622",
+      "license": "MIT",
+      "status": "adapted_method",
+      "rawPath": "raw/humanizer-zh/Humanizer-zh-91f3d394db8419c20d67ebe22a96cf8fee0a404b"
+    },
+    {
+      "id": "shuorenhua",
+      "repository": "https://github.com/MrGeDiao/shuorenhua",
+      "commit": "6318b703e0c264dcf8822ee817bbea0519c6a62b",
+      "archiveSha256": "f9714ebda52a017a0c52af7494813e0f165188995470906b8fc38d4d9656c2e9",
+      "license": "MIT",
+      "status": "adapted_method",
+      "rawPath": "raw/shuorenhua/shuorenhua-6318b703e0c264dcf8822ee817bbea0519c6a62b"
+    },
+    {
+      "id": "stop-slop",
+      "repository": "https://github.com/hardikpandya/stop-slop",
+      "commit": "8da1f030185bdfe8471220585162991eaeb970e9",
+      "archiveSha256": "c14e96a224f8d1b3531fe77886dbe0d22289fa9e9cbe134dc9400f994596dd0c",
+      "license": "MIT",
+      "status": "adapted_method",
+      "rawPath": "raw/stop-slop/stop-slop-8da1f030185bdfe8471220585162991eaeb970e9"
+    },
+    {
+      "id": "humanizer",
+      "repository": "https://github.com/blader/humanizer",
+      "commit": "523374dee72d67c7b2b5f858ea0094ffda49c3ac",
+      "archiveSha256": "a539d88b320eb59ff700b195bd41ec7e439f1df2f2a93ecea3003bd06fcfa658",
+      "license": "MIT",
+      "status": "adapted_method",
+      "rawPath": "raw/humanizer/humanizer-523374dee72d67c7b2b5f858ea0094ffda49c3ac"
+    },
+    {
+      "id": "humanizer-skill",
+      "repository": "https://github.com/Aboudjem/humanizer-skill",
+      "commit": "9a7f35b7b9ad8c3abd71f10757ec9f91fb8ae165",
+      "archiveSha256": "e2c90ed429a821497c9b3bf375cbc05de79876cec3e44e49f7d89e70b0c6b060",
+      "license": "MIT",
+      "status": "adapted_method",
+      "rawPath": "raw/humanizer-skill/humanizer-skill-9a7f35b7b9ad8c3abd71f10757ec9f91fb8ae165"
+    },
+    {
+      "id": "remove-ai-flavor-writing-skill",
+      "repository": "https://github.com/B1lli/remove-ai-flavor-writing-skill",
+      "commit": "5edd9fa055292cdb854b210e806ad4fb64910bbe",
+      "archiveSha256": "c20c8abc9a061670a8b851cbf00634d0513338e8407f4b16883c9c5c3b1f28ac",
+      "license": "MIT",
+      "status": "adapted_method",
+      "rawPath": "raw/remove-ai-flavor-writing-skill/remove-ai-flavor-writing-skill-5edd9fa055292cdb854b210e806ad4fb64910bbe"
+    },
+    {
+      "id": "ai-flavor-remover",
+      "repository": "https://github.com/hylarucoder/ai-flavor-remover",
+      "commit": "919386756cf568edf0ac9bd40ae96a9eeea6e21e",
+      "archiveSha256": "5e984e04974b8b80a59fdcdb033fb0b781c84877ca5f3366a793e6bb1d17e0d7",
+      "license": "not_found",
+      "status": "research_only",
+      "rawPath": "raw/ai-flavor-remover/ai-flavor-remover-919386756cf568edf0ac9bd40ae96a9eeea6e21e"
+    }
+  ]
+}

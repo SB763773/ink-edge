@@ -1,0 +1,22 @@
+.env
+data/app-state.json
+data/*.bak*
+data/*.json
+knowledge-base/training-log.jsonl
+docs/
+test/
+node_modules/
+npm-debug.log*
+vendor/humanizer-tools/raw/
+# 发布到 GitHub 时追加
+.workbuddy/
+.DS_Store
+Thumbs.db
+dist/
+__pycache__/
+*.pyc
+*.log
+.env.local
+.wrangler/
+.codex-tmp/
+.agents/

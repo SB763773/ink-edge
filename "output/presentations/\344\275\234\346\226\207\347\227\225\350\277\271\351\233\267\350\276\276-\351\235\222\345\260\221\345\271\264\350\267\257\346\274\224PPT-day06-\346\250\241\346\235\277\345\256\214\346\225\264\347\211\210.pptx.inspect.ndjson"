@@ -1,0 +1,153 @@
+{"kind":"deck","id":"pr/pycdb4","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"作文痕迹雷达","textShapes":4}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"name":"Title-3-1","text":"作文痕迹雷达","textPreview":"作文痕迹雷达","textChars":6,"textLines":1,"bbox":[41.33,182.55,992,261.57]}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"name":"Subtitle-4-2","text":"检测AI风险，解释原因，提供安全改写建议\nTony-Codex  ·  Tony1228、Codex  ·  7.30","textPreview":"检测AI风险，解释原因，提供安全改写建议 | Tony-Codex  ·  Tony1228、Codex  ·  7.30","textChars":59,"textLines":2,"bbox":[41.33,497.87,598.67,113.41]}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"name":"Subtitle-4-3","text":"青少年AI创客营 · 5–7分钟项目路演","textPreview":"青少年AI创客营 · 5–7分钟项目路演","textChars":20,"textLines":1,"bbox":[41.33,41.18,598.67,68.15]}
+{"kind":"shape","id":"sh/7qp4be9c","slide":1,"name":"youth-blue-accent","bbox":[41.33,20,88,6]}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"name":"section-label","text":"01 封面","textPreview":"01 封面","textChars":5,"textLines":1,"bbox":[1010,18,228,28]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"大家好，我们的项目叫“作文痕迹雷达”。它面向会使用AI辅助润色、又担心作文被质疑的学生。我们的目标不是帮助学生伪装，而是把风险原因讲清楚，并在不编造经历的前提下给出修改建议。\n\n[Sources]\n- D:/tony/“你像AI吗”文本检测反测站/docs/青少年商业计划书模板-day06 副本.md\n[/Sources]"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"服务谁，解决什么","textShapes":5}
+{"kind":"textbox","id":"sh/w3i1sfa9","slide":2,"name":"Google-Shape-534-p58-1","text":"服务谁，解决什么\n用户｜12–18岁学生是主要用户；语文老师、班主任和写作社团指导老师是次要用户。\n麻烦｜学生不知道哪句像AI，老师人工细查又耗时；再次让AI重写还可能更工整或新增细节。","textPreview":"服务谁，解决什么 | 用户｜12–18岁学生是主要用户；语文老师、班主任和写作社团指导老师是次要用户。 | 麻烦｜学生不知道哪句像AI，老师人工细查又耗时；再次让AI重写还可能更工整或新增细节。","textChars":93,"textLines":3,"bbox":[41.33,193.05,580.91,436.28]}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"Google-Shape-532-p58-3","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"name":"Google-Shape-533-p58-4","text":"作文痕迹雷达把“像AI”变成可解释、可修改的问题","textPreview":"作文痕迹雷达把“像AI”变成可解释、可修改的问题","textChars":24,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"Google-Shape-534-p58-5","text":"产品给出的结果\n结果｜检测风险比例与原因，给出不乱编细节的受控改写和前后对照，帮助文章更真实、更具体。","textPreview":"产品给出的结果 | 结果｜检测风险比例与原因，给出不乱编细节的受控改写和前后对照，帮助文章更真实、更具体。","textChars":51,"textLines":2,"bbox":[657.75,230.2,581.33,399.13]}
+{"kind":"shape","id":"sh/a10jqpsj","slide":2,"name":"youth-blue-accent","bbox":[41.33,20,88,6]}
+{"kind":"textbox","id":"sh/x4r21kru","slide":2,"name":"section-label","text":"项目概览","textPreview":"项目概览","textChars":4,"textLines":1,"bbox":[1010,18,228,28]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"这个项目服务两类人。第一类是经常写作文、读后感、演讲稿或实践报告，并使用AI润色的12到18岁学生；第二类是需要批改和反馈的老师。产品把一个模糊判断拆成风险比例、具体原因和可操作修改，让双方知道问题在哪里，而不是只得到一句“这篇像AI”。\n\n[Sources]\n- D:/tony/“你像AI吗”文本检测反测站/docs/青少年商业计划书模板-day06 副本.md\n[/Sources]"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"学生和老师都缺少可解释依据","textShapes":5}
+{"kind":"textbox","id":"sh/pcjqtg36","slide":3,"name":"Google-Shape-534-p58-1","text":"学生和老师都缺少可解释依据\n学生｜提交作文、课堂分享或上台前，担心AI润色后的表达被一眼看出。\n老师｜批改大量作文时，人工细查耗时，也难以用具体证据与学生沟通。","textPreview":"学生和老师都缺少可解释依据 | 学生｜提交作文、课堂分享或上台前，担心AI润色后的表达被一眼看出。 | 老师｜批改大量作文时，人工细查耗时，也难以用具体证据与学生沟通。","textChars":80,"textLines":3,"bbox":[41.33,193.05,580.91,436.28]}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"Google-Shape-532-p58-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/d0jax03i","slide":3,"name":"Google-Shape-533-p58-4","text":"提交前最怕的不是低分，而是被一眼看出“AI味”","textPreview":"提交前最怕的不是低分，而是被一眼看出“AI味”","textChars":23,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/298ryl4v","slide":3,"name":"Google-Shape-534-p58-5","text":"来自校内同班同学的观察\n最常听到：\n“用AI作文上场被当场识破尬死我了。”\n结论：先解决作文AI风险检测和安全改写。","textPreview":"来自校内同班同学的观察 | 最常听到： | “用AI作文上场被当场识破尬死我了。” | 结论：先解决作文AI风险检测和安全改写。","textChars":58,"textLines":4,"bbox":[657.75,230.2,581.33,399.13]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"youth-blue-accent","bbox":[41.33,20,88,6]}
+{"kind":"textbox","id":"sh/obq90bml","slide":3,"name":"section-label","text":"用户与问题","textPreview":"用户与问题","textChars":5,"textLines":1,"bbox":[1010,18,228,28]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"学生常用的办法是自己反复读，或者再让AI改一遍，但这并不能解释问题，甚至可能越改越工整。老师也有压力：面对大量作文，只靠经验圈出几句模板话，沟通成本很高。计划书记录的真实观察来自校内同班同学，其中最直接的一句话是：“用AI作文上场被当场识破尬死我了。”\n\n[Sources]\n- D:/tony/“你像AI吗”文本检测反测站/docs/青少年商业计划书模板-day06 副本.md\n[/Sources]"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"04","textShapes":9}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"Slide-Number-Placeholder-3-2","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"Title-10-3","text":"先检测、再解释、最后受控改写，过程始终有事实边界","textPreview":"先检测、再解释、最后受控改写，过程始终有事实边界","textChars":24,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"shape","id":"sh/p0batw72","slide":4,"name":"Google-Shape-2259-p159-4","bbox":[35.46,354.2,1285.61,0.03]}
+{"kind":"shape","id":"sh/rm1k7yt4","slide":4,"name":"Google-Shape-2260-p159-5","bbox":[35.46,348.58,11.24,11.24]}
+{"kind":"shape","id":"sh/ql8jytsj","slide":4,"name":"Google-Shape-2261-p159-6","bbox":[446.38,348.58,11.24,11.24]}
+{"kind":"shape","id":"sh/doj29oba","slide":4,"name":"Google-Shape-2262-p159-7","bbox":[858.38,348.58,11.24,11.24]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"Content-Placeholder-15-8","text":"步骤1｜输入材料","textPreview":"步骤1｜输入材料","textChars":8,"textLines":1,"bbox":[41.33,298.51,169.33,27.55]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"name":"Content-Placeholder-15-9","text":"步骤2｜找到原因","textPreview":"步骤2｜找到原因","textChars":8,"textLines":1,"bbox":[450.83,298.51,169.33,27.55]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"name":"Content-Placeholder-15-10","text":"步骤3｜安全改写","textPreview":"步骤3｜安全改写","textChars":8,"textLines":1,"bbox":[863.33,298.51,169.33,27.55]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"name":"Text-Placeholder-16-11","text":"拆解风险来源\n风险比例与等级\n套话、转场、密度、句式等","textPreview":"拆解风险来源 | 风险比例与等级 | 套话、转场、密度、句式等","textChars":27,"textLines":3,"bbox":[453.24,401.33,331.35,166.54]}
+{"kind":"textbox","id":"sh/5cva1cfq","slide":4,"name":"Text-Placeholder-16-12","text":"输入真实材料\n粘贴作文\n填写写作背景与作者样本","textPreview":"输入真实材料 | 粘贴作文 | 填写写作背景与作者样本","textChars":23,"textLines":3,"bbox":[41.98,401.33,331.35,166.54]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"Text-Placeholder-16-13","text":"生成可复检版本\n按编辑计划与事实库存改写\n完成审计并再次检测","textPreview":"生成可复检版本 | 按编辑计划与事实库存改写 | 完成审计并再次检测","textChars":30,"textLines":3,"bbox":[858.57,401.33,331.35,166.54]}
+{"kind":"shape","id":"sh/jadsz2xk","slide":4,"name":"youth-blue-accent","bbox":[41.33,20,88,6]}
+{"kind":"textbox","id":"sh/w72947yt","slide":4,"name":"section-label","text":"解决方案","textPreview":"解决方案","textChars":4,"textLines":1,"bbox":[1010,18,228,28]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"用户先粘贴作文，并补充写作背景和自己的文字样本。系统先检测风险比例和等级，再解释模板套话、显性转场、信息密度低、句式过匀等来源。需要修改时，系统先建立编辑计划和事实库存，作者样本只用来学习句长、开头、用词和标点；改写后再进行事实审计、样本泄漏审计和AI率复检。\n\n[Sources]\n- D:/tony/“你像AI吗”文本检测反测站/docs/青少年商业计划书模板-day06 副本.md\n[/Sources]"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"05","textShapes":5}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"Google-Shape-532-p58-2","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"Google-Shape-533-p58-3","text":"一次演示：检测 → 修改 → 复检","textPreview":"一次演示：检测 → 修改 → 复检","textChars":17,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"shape","id":"sh/cf2tcr61","slide":5,"name":"Picture-3-4-backing","bbox":[658.17,41.62,581.6,588.14]}
+{"kind":"textbox","id":"sh/z2tcnm5s","slide":5,"name":"Picture-3-4-placeholder","text":"【放产品检测报告与改写对照截图】","textPreview":"【放产品检测报告与改写对照截图】","textChars":16,"textLines":1,"bbox":[700,272,498,120]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"name":"Google-Shape-534-p58-5","text":"演示唯一任务：输入一段作文，得到详细分析与改写\n1  用户输入：作文、写作背景和作者样本\n\n2  系统处理：检测比例、等级和原因，再按事实边界改写\n\n3  用户得到：问题清单、前后对照和可复检版本","textPreview":"演示唯一任务：输入一段作文，得到详细分析与改写 | 1  用户输入：作文、写作背景和作者样本 |  | 2  系统处理：检测比例、等级和原因，再按事实边界改写 |  | 3  用户得到：问题清单、前后对照和可复检版本","textChars":98,"textLines":6,"bbox":[41.33,213.33,581.33,416]}
+{"kind":"shape","id":"sh/l4bupwny","slide":5,"name":"youth-blue-accent","bbox":[41.33,20,88,6]}
+{"kind":"textbox","id":"sh/032tgr6d","slide":5,"name":"section-label","text":"产品展示","textPreview":"产品展示","textChars":4,"textLines":1,"bbox":[1010,18,228,28]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"现场只演示一个任务：粘贴一段作文，得到详细分析，再查看受控改写。演示时重点展示风险比例和等级、问题来源、问题清单，以及修改前后的对照。右侧保留真实产品截图的位置，避免用虚构界面代替现有原型。\n\n[Sources]\n- D:/tony/“你像AI吗”文本检测反测站/docs/青少年商业计划书模板-day06 副本.md\n[/Sources]"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"06","textShapes":7}
+{"kind":"textbox","id":"sh/47mt0b6x","slide":6,"name":"Google-Shape-532-p58-2","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"Google-Shape-533-p58-3","text":"我们的差异不是多给一个分数，而是给出可解释的修改路径","textPreview":"我们的差异不是多给一个分数，而是给出可解释的修改路径","textChars":26,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/zi98nu94","slide":6,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/87ipkzal","slide":6,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/98rqt4r6","slide":6,"name":"Content-Placeholder-9-6","text":"人工写作辅导\n更懂学生、建议有温度\n但批量检查耗时、依赖经验","textPreview":"人工写作辅导 | 更懂学生、建议有温度 | 但批量检查耗时、依赖经验","textChars":30,"textLines":3,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/ml07i9sv","slide":6,"name":"Content-Placeholder-10-7","text":"作文痕迹雷达\n学生作文专用\n原因、清单、密度、节奏、对照与事实边界","textPreview":"作文痕迹雷达 | 学生作文专用 | 原因、清单、密度、节奏、对照与事实边界","textChars":33,"textLines":3,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/7m98ru9g","slide":6,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/oryp8fah","slide":6,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/pc76hkr2","slide":6,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"name":"Content-Placeholder-9-11","text":"自己检查 / 再让AI改\n操作直接\n但可能越改越工整、加入新细节","textPreview":"自己检查 / 再让AI改 | 操作直接 | 但可能越改越工整、加入新细节","textChars":32,"textLines":3,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/w32twb6l","slide":6,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/v2tcn650","slide":6,"name":"Content-Placeholder-15-13","text":"用户为什么愿意换\n既看到AI风险，也看到风险原因，还能获得不乱编生活细节的修改建议。","textPreview":"用户为什么愿意换 | 既看到AI风险，也看到风险原因，还能获得不乱编生活细节的修改建议。","textChars":42,"textLines":2,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"shape","id":"sh/u1kbu1ov","slide":6,"name":"youth-blue-accent","bbox":[41.33,20,88,6]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"name":"section-label","text":"竞争差异","textPreview":"竞争差异","textChars":4,"textLines":1,"bbox":[1010,18,228,28]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"现在学生主要靠自己反复读、让AI再改一次，或者接受人工辅导。人工辅导的优势是了解学生，也更有温度；它的不足是很难批量处理。作文痕迹雷达专门围绕学生作文设计，不只报一个分数，还展示原因、问题清单、信息密度、节奏和修改前后对照，并限制改写不能随意新增事实。\n\n[Sources]\n- D:/tony/“你像AI吗”文本检测反测站/docs/青少年商业计划书模板-day06 副本.md\n[/Sources]"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"07","textShapes":10}
+{"kind":"shape","id":"sh/25ojml43","slide":7,"name":"Rounded-Rectangle-5-1","bbox":[41.33,317.33,374.67,312]}
+{"kind":"shape","id":"sh/cb2tkvap","slide":7,"name":"Rounded-Rectangle-6-2","bbox":[452.67,317.33,374.67,312]}
+{"kind":"shape","id":"sh/dcbud0ra","slide":7,"name":"Rounded-Rectangle-7-3","bbox":[864.28,317.33,374.67,312]}
+{"kind":"textbox","id":"sh/ydkbm5sv","slide":7,"name":"Slide-Number-Placeholder-1-4","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"name":"Title-2-5","text":"我们已有可运行原型，但真实用户验证仍未完成","textPreview":"我们已有可运行原型，但真实用户验证仍未完成","textChars":21,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/kzmdova1","slide":7,"name":"Content-Placeholder-9-6","text":"网站、检测与改写接口、账号算力页\n另有截图、作文样本、方案和测试记录","textPreview":"网站、检测与改写接口、账号算力页 | 另有截图、作文样本、方案和测试记录","textChars":34,"textLines":2,"bbox":[73.74,514.5,309.67,86]}
+{"kind":"textbox","id":"sh/l0vuh0rm","slide":7,"name":"Content-Placeholder-10-7","text":"先让5–10名学生试用\n记录是否看懂、愿改、风险是否下降","textPreview":"先让5–10名学生试用 | 记录是否看懂、愿改、风险是否下降","textChars":28,"textLines":2,"bbox":[896.78,514.5,309.67,86]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"Content-Placeholder-11-8","text":"暂时未完成访谈\n参与人数、效果数据：计划书未提供","textPreview":"暂时未完成访谈 | 参与人数、效果数据：计划书未提供","textChars":24,"textLines":2,"bbox":[485.17,514.5,309.67,86]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"name":"Content-Placeholder-9-9","text":"已有原型","textPreview":"已有原型","textChars":4,"textLines":1,"bbox":[73.74,360,308.67,142.71]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"name":"Content-Placeholder-9-10","text":"尚未访谈","textPreview":"尚未访谈","textChars":4,"textLines":1,"bbox":[484.3,360,308.67,142.71]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"name":"Content-Placeholder-9-11","text":"准备验证","textPreview":"准备验证","textChars":4,"textLines":1,"bbox":[898.94,360,308.67,142.71]}
+{"kind":"textbox","id":"sh/xcz2l03q","slide":7,"name":"Content-Placeholder-15-12","text":"把“已完成”和“待验证”分开\n计划书没有提供访谈人数、效果数据或付费意愿，因此本页不补写结果。","textPreview":"把“已完成”和“待验证”分开 | 计划书没有提供访谈人数、效果数据或付费意愿，因此本页不补写结果。","textChars":47,"textLines":2,"bbox":[41.33,119.51,1197.33,167.92]}
+{"kind":"shape","id":"sh/cbq1sv25","slide":7,"name":"youth-blue-accent","bbox":[41.33,20,88,6]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"section-label","text":"验证结果","textPreview":"验证结果","textChars":4,"textLines":1,"bbox":[1010,18,228,28]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"这里要特别诚实地区分产品成果和用户验证。我们已经有可运行的网站原型、AI痕迹规则库、检测与改写接口、账号算力页面、产品截图和作文样本测试材料，也积累了改造方案和测试记录。但是计划书明确写着暂时未完成访谈，所以没有用户数量、效果数据或付费意愿可以展示。下一步先做5到10名学生试用。\n\n[Sources]\n- D:/tony/“你像AI吗”文本检测反测站/docs/青少年商业计划书模板-day06 副本.md\n[/Sources]"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"08","textShapes":10}
+{"kind":"shape","id":"sh/1k7edwv2","slide":8,"name":"Rounded-Rectangle-5-1","bbox":[41.33,317.33,374.67,312]}
+{"kind":"shape","id":"sh/18byd4zy","slide":8,"name":"Rounded-Rectangle-6-2","bbox":[452.67,317.33,374.67,312]}
+{"kind":"shape","id":"sh/g72x4zyd","slide":8,"name":"Rounded-Rectangle-7-3","bbox":[864.28,317.33,374.67,312]}
+{"kind":"textbox","id":"sh/ri9g7uhw","slide":8,"name":"Slide-Number-Placeholder-1-4","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/6h0fypgb","slide":8,"name":"Title-2-5","text":"早期从个人按次或小范围试用开始，价格仍需验证","textPreview":"早期从个人按次或小范围试用开始，价格仍需验证","textChars":22,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"Content-Placeholder-9-6","text":"主要是学生\n老师也可能使用并付费","textPreview":"主要是学生 | 老师也可能使用并付费","textChars":16,"textLines":2,"bbox":[73.74,514.5,309.67,86]}
+{"kind":"textbox","id":"sh/sjix0zy1","slide":8,"name":"Content-Placeholder-10-7","text":"省检查和修改时间\n得到更具体、更安全的写作反馈","textPreview":"省检查和修改时间 | 得到更具体、更安全的写作反馈","textChars":23,"textLines":2,"bbox":[896.78,514.5,309.67,86]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"Content-Placeholder-11-8","text":"学生、家长、写作社团、培训机构\n或学校语文备课组","textPreview":"学生、家长、写作社团、培训机构 | 或学校语文备课组","textChars":24,"textLines":2,"bbox":[485.17,514.5,309.67,86]}
+{"kind":"textbox","id":"sh/id0fu50z","slide":8,"name":"Content-Placeholder-9-9","text":"学生使用","textPreview":"学生使用","textChars":4,"textLines":1,"bbox":[73.74,360,308.67,142.71]}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"name":"Content-Placeholder-9-10","text":"多方付费","textPreview":"多方付费","textChars":4,"textLines":1,"bbox":[484.3,360,308.67,142.71]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"Content-Placeholder-9-11","text":"先按次","textPreview":"先按次","textChars":3,"textLines":1,"bbox":[898.94,360,308.67,142.71]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"Content-Placeholder-15-12","text":"使用者、付费者、收费方式\n先提供少量免费体验，再测试算力包或包月；班级版要等真实效果验证后再决定。","textPreview":"使用者、付费者、收费方式 | 先提供少量免费体验，再测试算力包或包月；班级版要等真实效果验证后再决定。","textChars":49,"textLines":2,"bbox":[41.33,119.51,1197.33,167.92]}
+{"kind":"shape","id":"sh/n6pwfmd8","slide":8,"name":"youth-blue-accent","bbox":[41.33,20,88,6]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"name":"section-label","text":"商业模式","textPreview":"商业模式","textChars":4,"textLines":1,"bbox":[1010,18,228,28]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"真正使用产品的主要是学生，老师也可能使用。付费者可能是学生、家长、写作社团、培训机构或学校语文备课组。早期更适合个人按次使用或小范围社团试用：先给少量免费体验，再测试算力包或包月。具体价格和付费意愿都还没有验证，班级版也要等试用结果后再决定。\n\n[Sources]\n- D:/tony/“你像AI吗”文本检测反测站/docs/青少年商业计划书模板-day06 副本.md\n[/Sources]"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"09","textShapes":7}
+{"kind":"textbox","id":"sh/do3id4fy","slide":9,"name":"Google-Shape-532-p58-2","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"name":"Google-Shape-533-p58-3","text":"AI负责识别与受控改写，人负责核对事实与风险","textPreview":"AI负责识别与受控改写，人负责核对事实与风险","textChars":22,"textLines":1,"bbox":[41.33,36.17,1197.33,134.7]}
+{"kind":"shape","id":"sh/0b65obm9","slide":9,"name":"Rounded-Rectangle-9-4","bbox":[452.38,353.33,374.67,276]}
+{"kind":"shape","id":"sh/nex4jq5k","slide":9,"name":"Rounded-Rectangle-10-5","bbox":[864,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"name":"Content-Placeholder-9-6","text":"受控改写与审计\n编辑计划、事实库存\n样本事实黑名单\n事实审计、泄漏审计、AI率复检","textPreview":"受控改写与审计 | 编辑计划、事实库存 | 样本事实黑名单 | 事实审计、泄漏审计、AI率复检","textChars":41,"textLines":4,"bbox":[485.23,435.29,309.64,150.43]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"name":"Content-Placeholder-10-7","text":"人来确认并保护隐私\n学生核对经历，老师查看原因\n不收姓名、学校班级、住址、电话\n不收证件或私人照片","textPreview":"人来确认并保护隐私 | 学生核对经历，老师查看原因 | 不收姓名、学校班级、住址、电话 | 不收证件或私人照片","textChars":49,"textLines":4,"bbox":[896.18,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/ofq5svm5","slide":9,"name":"Google-Shape-340-p61-8","bbox":[485.84,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/bih4na5w","slide":9,"name":"Google-Shape-340-p61-9","bbox":[895.88,387.83,24.55,24.54]}
+{"kind":"shape","id":"sh/ah8nu54b","slide":9,"name":"Rounded-Rectangle-5-10","bbox":[40.77,353.33,374.67,276]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"name":"Content-Placeholder-9-11","text":"检测与诊断\n本地AI痕迹规则、节奏、信息密度、格式痕迹\n再结合模型判断","textPreview":"检测与诊断 | 本地AI痕迹规则、节奏、信息密度、格式痕迹 | 再结合模型判断","textChars":35,"textLines":3,"bbox":[73.61,435.29,309.64,150.43]}
+{"kind":"shape","id":"sh/p0ji9kf2","slide":9,"name":"Google-Shape-340-p61-12","bbox":[74.23,387.83,24.55,24.54]}
+{"kind":"textbox","id":"sh/2xsjepgb","slide":9,"name":"Content-Placeholder-15-13","text":"技术目标：可解释、可审计、可由人确认\n系统可能误判工整真人作文、漏掉人工修改的AI文本，也可能遇到接口失败或网络超时。","textPreview":"技术目标：可解释、可审计、可由人确认 | 系统可能误判工整真人作文、漏掉人工修改的AI文本，也可能遇到接口失败或网络超时。","textChars":59,"textLines":2,"bbox":[41.33,152.29,1197.33,171.05]}
+{"kind":"shape","id":"sh/3y107axw","slide":9,"name":"youth-blue-accent","bbox":[41.33,20,88,6]}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"name":"section-label","text":"技术与安全","textPreview":"技术与安全","textChars":5,"textLines":1,"bbox":[1010,18,228,28]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"检测阶段结合本地AI痕迹规则、文本节奏、信息密度、格式痕迹和模型判断。改写阶段先建立编辑计划、事实库存和样本事实黑名单，之后进行事实审计、样本泄漏审计和AI率复检排序。系统仍可能误判工整的真人作文、漏掉人工修改的AI文本，或遇到接口和网络问题，所以学生要核对真实经历，老师要查看原因与前后对照。产品不要求真实姓名、学校班级、住址、电话、身份证件或私人照片。\n\n[Sources]\n- D:/tony/“你像AI吗”文本检测反测站/docs/青少年商业计划书模板-day06 副本.md\n[/Sources]"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"10","textShapes":9}
+{"kind":"textbox","id":"sh/1cru1g3y","slide":10,"name":"Slide-Number-Placeholder-3-2","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"name":"Title-10-3","text":"90天内，我们要从5–10人试用走到约30人闭环","textPreview":"90天内，我们要从5–10人试用走到约30人闭环","textChars":24,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"shape","id":"sh/xwnupgvy","slide":10,"name":"Google-Shape-2259-p159-4","bbox":[35.46,354.2,1285.61,0.03]}
+{"kind":"shape","id":"sh/zelojyl8","slide":10,"name":"Google-Shape-2260-p159-5","bbox":[35.46,348.58,11.24,11.24]}
+{"kind":"shape","id":"sh/ydcnatkn","slide":10,"name":"Google-Shape-2261-p159-6","bbox":[446.38,348.58,11.24,11.24]}
+{"kind":"shape","id":"sh/l036l83y","slide":10,"name":"Google-Shape-2262-p159-7","bbox":[858.38,348.58,11.24,11.24]}
+{"kind":"textbox","id":"sh/kzu5c32t","slide":10,"name":"Content-Placeholder-15-8","text":"第1–30天","textPreview":"第1–30天","textChars":6,"textLines":1,"bbox":[41.33,298.51,169.33,27.55]}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"name":"Content-Placeholder-15-9","text":"第31–60天","textPreview":"第31–60天","textChars":7,"textLines":1,"bbox":[450.83,298.51,169.33,27.55]}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"name":"Content-Placeholder-15-10","text":"第61–90天","textPreview":"第61–90天","textChars":7,"textLines":1,"bbox":[863.33,298.51,169.33,27.55]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"name":"Text-Placeholder-16-11","text":"补齐核心能力\n优化暂不可用的风格校准与高AI率\n完善事实审计和移动端页面","textPreview":"补齐核心能力 | 优化暂不可用的风格校准与高AI率 | 完善事实审计和移动端页面","textChars":36,"textLines":3,"bbox":[453.24,401.33,331.35,166.54]}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"name":"Text-Placeholder-16-12","text":"完成5–10人试用\n记录是否看懂原因、愿意修改\n以及修改后风险是否下降","textPreview":"完成5–10人试用 | 记录是否看懂原因、愿意修改 | 以及修改后风险是否下降","textChars":35,"textLines":3,"bbox":[41.98,401.33,331.35,166.54]}
+{"kind":"textbox","id":"sh/q5gb21kb","slide":10,"name":"Text-Placeholder-16-13","text":"组织约30人闭环\n记录时间、降分、事实保留和反馈\n决定个人版或老师/社团版","textPreview":"组织约30人闭环 | 记录时间、降分、事实保留和反馈 | 决定个人版或老师/社团版","textChars":37,"textLines":3,"bbox":[858.57,401.33,331.35,166.54]}
+{"kind":"shape","id":"sh/r6pcv6lw","slide":10,"name":"youth-blue-accent","bbox":[41.33,20,88,6]}
+{"kind":"textbox","id":"sh/0bit8b2d","slide":10,"name":"section-label","text":"90天计划","textPreview":"90天计划","textChars":5,"textLines":1,"bbox":[1010,18,228,28]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"前30天先完成5到10名学生的试用访谈，记录他们是否看懂原因、愿不愿意按建议修改，以及风险是否下降。31到60天重点优化目前暂时不能使用的作者样本风格校准，并处理改写后AI率常常仍高于50%的问题，同时完善事实审计和移动端。61到90天争取让30名左右学生完成检测、修改、复检闭环，再根据完成时间、降分、事实保留和反馈决定个人版还是老师或社团版。\n\n[Sources]\n- D:/tony/“你像AI吗”文本检测反测站/docs/青少年商业计划书模板-day06 副本.md\n[/Sources]"}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"11","textShapes":8}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":11,"name":"Google-Shape-532-p58-2","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1184.18,659.24,54.48,25.33]}
+{"kind":"textbox","id":"sh/xcryxg7y","slide":11,"name":"Google-Shape-533-p58-3","text":"团队已完成原型，当前最需要真实试用者和教学反馈","textPreview":"团队已完成原型，当前最需要真实试用者和教学反馈","textChars":23,"textLines":1,"bbox":[41.33,36.12,1197.33,109.97]}
+{"kind":"shape","id":"sh/wbih4b6d","slide":11,"name":"Rounded-Rectangle-6-4","bbox":[657.68,248.8,580.99,172]}
+{"kind":"textbox","id":"sh/n69grmpw","slide":11,"name":"Content-Placeholder-10-5","text":"Codex｜AI助手\n编程、方案、调试修Bug、文档整理、图标设计和部署协助","textPreview":"Codex｜AI助手 | 编程、方案、调试修Bug、文档整理、图标设计和部署协助","textChars":38,"textLines":2,"bbox":[688.89,279.77,523.56,110.07]}
+{"kind":"shape","id":"sh/250zy18b","slide":11,"name":"Rounded-Rectangle-8-6","bbox":[42.94,248.8,580.99,172]}
+{"kind":"textbox","id":"sh/98rytw72","slide":11,"name":"Content-Placeholder-10-7","text":"Tony｜项目负责人\n决策与项目设计、开发监督、文档审核、问题反馈、部署、演示和路演资料","textPreview":"Tony｜项目负责人 | 决策与项目设计、开发监督、文档审核、问题反馈、部署、演示和路演资料","textChars":44,"textLines":2,"bbox":[74.15,279.77,523.56,110.07]}
+{"kind":"shape","id":"sh/o7ih0r6h","slide":11,"name":"Rounded-Rectangle-1-8","bbox":[657.68,458.8,580.99,172]}
+{"kind":"textbox","id":"sh/72t03qp0","slide":11,"name":"Content-Placeholder-10-9","text":"我们现在需要\n评委或老师介绍真实试用者，并反馈哪些解释更适合教学场景","textPreview":"我们现在需要 | 评委或老师介绍真实试用者，并反馈哪些解释更适合教学场景","textChars":34,"textLines":2,"bbox":[688.89,489.77,523.56,110.07]}
+{"kind":"shape","id":"sh/61kzalof","slide":11,"name":"Rounded-Rectangle-3-10","bbox":[42.94,458.8,580.99,172]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":11,"name":"Content-Placeholder-10-11","text":"我们已经有\n网站原型、规则库、检测与改写接口、账号算力页、截图、样本和测试记录","textPreview":"我们已经有 | 网站原型、规则库、检测与改写接口、账号算力页、截图、样本和测试记录","textChars":39,"textLines":2,"bbox":[74.15,489.77,523.56,110.07]}
+{"kind":"textbox","id":"sh/9gza9sze","slide":11,"name":"Content-Placeholder-15-12","text":"团队分工 + 已有资源 + 一个请求\n我们需要愿意用自己作文测试的学生，也希望老师指出哪些检测解释更适合作文教学。","textPreview":"团队分工 + 已有资源 + 一个请求 | 我们需要愿意用自己作文测试的学生，也希望老师指出哪些检测解释更适合作文教学。","textChars":57,"textLines":2,"bbox":[42.09,111.02,1197.33,106.27]}
+{"kind":"shape","id":"sh/mdobedg3","slide":11,"name":"youth-blue-accent","bbox":[41.33,20,88,6]}
+{"kind":"textbox","id":"sh/nehs7iho","slide":11,"name":"section-label","text":"团队与请求","textPreview":"团队与请求","textChars":5,"textLines":1,"bbox":[1010,18,228,28]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"Tony负责项目决策、设计、开发监督、文档审核、问题反馈、部署和路演资料；Codex作为AI助手，负责执行任务、编程、方案、调试修Bug、文档、图标和部署协助。团队已经有可运行原型、规则库、接口、账号算力页面、截图、作文样本和测试记录。现在最需要的是愿意用自己作文试用的学生，以及老师对检测解释是否适合作文教学的反馈。\n\n[Sources]\n- D:/tony/“你像AI吗”文本检测反测站/docs/青少年商业计划书模板-day06 副本.md\n[/Sources]"}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"作文痕迹雷达让“这篇像AI”","textShapes":4}
+{"kind":"textbox","id":"sh/dcbm583y","slide":12,"name":"Title-3-1","text":"作文痕迹雷达让“这篇像AI”\n变成可以解释、修改和复检的反馈","textPreview":"作文痕迹雷达让“这篇像AI” | 变成可以解释、修改和复检的反馈","textChars":30,"textLines":2,"bbox":[41.33,182.55,992,261.57]}
+{"kind":"textbox","id":"sh/1gbm9s3a","slide":12,"name":"Subtitle-4-2","text":"下一步：组织真实学生试用，记录修改效果和老师反馈。\n我们需要：老师介绍试用者\n并反馈教学建议。\n谢谢，欢迎提问。","textPreview":"下一步：组织真实学生试用，记录修改效果和老师反馈。 | 我们需要：老师介绍试用者 | 并反馈教学建议。 | 谢谢，欢迎提问。","textChars":56,"textLines":4,"bbox":[41.33,522.13,374.67,113.41]}
+{"kind":"textbox","id":"sh/0f2lgnmp","slide":12,"name":"Subtitle-4-3","text":"最后一句","textPreview":"最后一句","textChars":4,"textLines":1,"bbox":[41.33,41.18,169.33,68.15]}
+{"kind":"shape","id":"sh/ra943il8","slide":12,"name":"youth-blue-accent","bbox":[41.33,20,88,6]}
+{"kind":"textbox","id":"sh/q903ad4n","slide":12,"name":"section-label","text":"12 收尾","textPreview":"12 收尾","textChars":5,"textLines":1,"bbox":[1010,18,228,28]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"最后请记住，作文痕迹雷达不是为了制造更像真人的假内容，而是把“这篇像AI”变成可以解释、修改和复检的写作反馈。下一步我们会组织真实学生试用，记录修改效果和老师反馈。我们希望评委或老师帮助介绍真实试用者，并指出哪些检测解释更适合作文教学。\n\n[Sources]\n- D:/tony/“你像AI吗”文本检测反测站/docs/青少年商业计划书模板-day06 副本.md\n[/Sources]"}
